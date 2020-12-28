@@ -2,6 +2,7 @@
 # Configurações Mínimas para ZSHRC e BASHRC
 # Insira as linhas abaixo no final do seu arquivo .zshrc ou .bashrc
 # Sempre que fizer alguma alteração em seu arquivo, dê o comando, source ~/.zshrc (ou .bashrc ou .zprofile)
+# Clique em RAW para ver o arquivo sem formatação do github.
 
 # Atalhos para terminal
 alias res="reset" # Limpa a tela do terminal por inteira, assim podem ficar sem tantos códigos a mostra
